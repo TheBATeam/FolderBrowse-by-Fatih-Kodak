@@ -1,0 +1,13 @@
+
+Folderbrowse - Browse for a folder.
+
+Call:  folderbrowse.exe [-h|-v] <title> <initial path>
+
+Options:
+          -h        Print this message
+          -v        Print version number
+
+Example: folderbrowse.exe "Select a folder" "C:\"
+
+by Fatih Kodak
+http://www.f2ko.de
